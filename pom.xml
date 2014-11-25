@@ -16,7 +16,7 @@
     <dependency>
       <groupId>com.github.olivergondza</groupId>
       <artifactId>dumpling</artifactId>
-      <version>RELEASE</version>
+      <version>[0.1-SNAPSHOT,)</version>
     </dependency>
 
     <dependency>
