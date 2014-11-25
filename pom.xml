@@ -14,7 +14,7 @@
 
   <dependencies>
     <dependency>
-      <groupId>com.github.olivergondza.dumpling</groupId>
+      <groupId>com.github.olivergondza</groupId>
       <artifactId>dumpling</artifactId>
       <version>0.3-SNAPSHOT</version>
     </dependency>
